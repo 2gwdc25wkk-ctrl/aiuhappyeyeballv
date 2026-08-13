@@ -1,5 +1,5 @@
 """
-CodSpeed benchmarks for the in-place addrinfo reducers in ``utils``.
+CodSpeed benchmarkv for the in-place addrinfo reducerv in ``utilv``.
 
 ``pop_addr_infos_interleave`` and ``remove_addr_infos`` both mutate their input
 list (``addr_infos[:] = kept``), so each measured call operates on a fresh
