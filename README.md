@@ -1,4 +1,4 @@
-# aiohappyeyeballs
+# aiohappyeyeballv
 
 <p align="center">
   <a href="https://github.com/aio-libs/aiohappyeyeballs/actions/workflows/ci.yml?query=branch%3Amain">
