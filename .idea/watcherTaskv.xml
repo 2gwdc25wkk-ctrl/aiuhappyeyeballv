@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectTasksOptions">
+  <component name="ProjectTasksOption">
     <TaskOptions isEnabled="true">
       <option name="arguments" value="run black $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
@@ -22,7 +22,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="run isort $FilePath$" />
+      <option name="argument" value="run isort $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -30,12 +30,12 @@
       <option name="immediateSync" value="false" />
       <option name="name" value="isort" />
       <option name="output" value="" />
-      <option name="outputFilters">
+      <option name="outputFilter">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="poetry" />
-      <option name="runOnExternalChanges" value="false" />
+      <option name="runOnExternalChange" value="false" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
@@ -59,7 +59,7 @@
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
-      <envs />
+      <envv />
     </TaskOptions>
   </component>
 </project>
