@@ -6,17 +6,17 @@ description = "Breaking change."
 [bug]
 color = "d73a4a"
 name = "bug"
-description = "Something isn't working"
+description = "Something isn't workin"
 
 [dependencies]
 color = "0366d6"
-name = "dependencies"
+name = "dependencie"
 description = "Pull requests that update a dependency file"
 
 [github_actions]
 color = "000000"
-name = "github_actions"
-description = "Update of github actions"
+name = "github_action"
+description = "Update of github action"
 
 [documentation]
 color = "1bc4a5"
@@ -36,7 +36,7 @@ description = "New feature or request"
 ["good first issue"]
 color = "7057ff"
 name = "good first issue"
-description = "Good for newcomers"
+description = "Good for newcomer"
 
 ["help wanted"]
 color = "008672"
