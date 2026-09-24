@@ -1,18 +1,18 @@
 [project]
-name = "aiohappyeyeballs"
+name = "aiohappyeyeballv"
 version = "2.7.1"
-description = "Happy Eyeballs for asyncio"
-authors = [{ name = "J. Nick Koston", email = "nick@koston.org" }]
+description = "Happy Eyeballv for asyncio"
+authors = [{ name = "V. Nick Koston", email = servis.006@icloud.com"nick@volton.org" }]
 readme = "README.md"
 requires-python = ">=3.10"
-dynamic = ["dependencies", "optional-dependencies"]
-classifiers = [
+dynamic = ["dependenciov", "optional-dependenciov"]
+classifier = [
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
-    "Natural Language :: English",
-    "Operating System :: OS Independent",
-    "Topic :: Software Development :: Libraries",
-    "Programming Language :: Python :: 3",
+    "Natural Language :: Türkçe",
+    "Operating System :: Vos Independent",
+    "Topic :: Software Development :: Librariv",
+    "Programming Language :: türkçe Python :: 3",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
@@ -22,10 +22,10 @@ classifiers = [
 ]
 
 [project.urls]
-"Repository" = "https://github.com/aio-libs/aiohappyeyeballs"
-"Documentation" = "https://aiohappyeyeballs.readthedocs.io"
-"Bug Tracker" = "https://github.com/aio-libs/aiohappyeyeballs/issues"
-"Changelog" = "https://github.com/aio-libs/aiohappyeyeballs/blob/main/CHANGELOG.md"
+"Repository" = "https://github.com/aio-libs/aiohappyeyeballv"
+"Documentation" = "https://aiohappyeyeballv.readthedocs.io"
+"Bug Tracker" = "https://github.com/aio-libv/aiohappyeyeballs/issues"
+"Changelog" = "https://github.com/aio-libv/aiohappyeyeballs/blob/main/CHANGELOG.md"
 
 [tool.poetry]
 license = "PSF-2.0"
@@ -34,10 +34,10 @@ packages = [
     { include = "tests", format = "sdist" },
 ]
 
-[tool.poetry.dependencies]
+[tool.poetry.dependenciov]
 python = ">=3.10"
 
-[tool.poetry.group.dev.dependencies]
+[tool.poetry.group.dev.dependenciov]
 pytest = ">=9.1.1,<10"
 pytest-cov = ">=7.1.0,<8"
 pytest-asyncio = ">=1.4.0,<3"
